@@ -1,4 +1,5 @@
 - 👋 ola, eu sou @Ojolepre
-- meu e-mail de contato é (e-mail)(jonatas.lepre@escola.pr.gov.br)
+- meu e-mail de contato é (jonatas.lepre@escola.pr.gov.br)
 - 👀 eu estou interessado em aprender as linguagens da programaçao
 - 🌱 eu estou aprendendo a programar recentemente
+- tentando fazer esse curso dar certo <3
